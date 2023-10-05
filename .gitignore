@@ -7,6 +7,10 @@
 *.o
 *.obj
 
+# C Sharp
+*.cs
+*.csproj
+
 # Precompiled Headers
 *.gch
 *.pch
